@@ -19,3 +19,4 @@ while (count > 0) {
 				document.write("<br>");
 			}
  }
+
