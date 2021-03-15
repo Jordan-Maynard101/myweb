@@ -1,0 +1,20 @@
+body
+{
+	background-color: black;
+	color:green;
+	width: 255px;
+	margin: 0 10px 10px 5px;
+	
+}
+header
+{
+	
+	color: white;
+	margin: 0 10px 10px 5px;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
