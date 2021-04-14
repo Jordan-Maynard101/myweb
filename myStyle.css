@@ -26,6 +26,7 @@ header
 	width: 910px;
 	padding: 25px;
 	margin-bottom: 10px;
+	color:black;
 }
 
 
@@ -52,6 +53,7 @@ aside
 	margin: 0 10px 10px 0;
 	padding: 10px;
 	float:left;
+	
 }
 
 section
